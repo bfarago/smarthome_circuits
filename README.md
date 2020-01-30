@@ -11,6 +11,6 @@ Documents
 ---------
 For further details, please [see doc folder](doc/README.md).
 
-![fig1](img/smartsw_N_fig1.png?raw=true "fig1")
+![fig1](doc/img/smartsw_N_fig1.png?raw=true "fig1")
 
-![fig2](img/smartsw_alternate_fig2.png?raw=true "fig2")
+![fig2](doc/img/smartsw_alternate_fig2.png?raw=true "fig2")
